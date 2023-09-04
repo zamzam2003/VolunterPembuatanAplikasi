@@ -6,3 +6,4 @@ Repository ini digunakan untuk sayembara pencarian volunter untuk pembuatan appl
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Zamzam Miftahul Faoz, [LinkdId](www.linkedin.com/in/zamzam-miftahul-faoz-442682261)
